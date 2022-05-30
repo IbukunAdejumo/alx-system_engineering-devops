@@ -1,0 +1,2 @@
+#!/bin/bash
+multitail /etc/passwd /etc/hosts
