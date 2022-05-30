@@ -1,1 +1,1 @@
-Replace all character
+Remove all character
