@@ -1,1 +1,1 @@
-a shell script that creates a file named exactly
+Display the last 10 lines of /etc/passwd
