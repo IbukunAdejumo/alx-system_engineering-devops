@@ -1,1 +1,1 @@
-a script that decodes
+a script that that parses
