@@ -1,1 +1,1 @@
-a script that lists all the files
+a script that decodes
