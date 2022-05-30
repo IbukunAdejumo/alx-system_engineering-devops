@@ -1,1 +1,1 @@
-a script that deletes all the regular files (not the directories) with a
+a shell script that creates a file named exactly
