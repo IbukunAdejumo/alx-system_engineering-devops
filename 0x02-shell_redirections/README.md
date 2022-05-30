@@ -1,1 +1,1 @@
-aDisplay lines containing the pattern “root” from the file /etc/passwd
+a Display lines containing the pattern “root” from the file /etc/passwd
