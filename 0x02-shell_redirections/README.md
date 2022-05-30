@@ -1,1 +1,1 @@
-a script that reverse its input
+a command
