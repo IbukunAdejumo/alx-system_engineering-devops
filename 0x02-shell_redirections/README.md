@@ -1,1 +1,1 @@
-Remove all character
+a script that reverse its input
