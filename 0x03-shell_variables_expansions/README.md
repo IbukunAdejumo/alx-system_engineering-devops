@@ -1,1 +1,1 @@
-a script that prints results
+a script that prints results of power
