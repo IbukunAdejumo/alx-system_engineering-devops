@@ -1,1 +1,1 @@
-a script that counts
+ a script that lists local & environment variables
