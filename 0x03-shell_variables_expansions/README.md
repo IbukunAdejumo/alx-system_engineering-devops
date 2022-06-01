@@ -1,1 +1,1 @@
-a script that prints results of power
+add action to th path
