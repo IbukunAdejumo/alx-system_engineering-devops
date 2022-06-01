@@ -1,1 +1,1 @@
-a script that prints results of power
+a script that prints hello user
